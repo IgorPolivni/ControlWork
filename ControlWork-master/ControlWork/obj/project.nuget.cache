@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "53eBDxC4gEe+H+A24R6ZjGDlvmmEBlyssJZzSZw0pAdHsS/JpUuL8Kns5j7C/WY96QjlLgu2RlFeGXbQzfB5nQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Игорь Поливин\\Desktop\\el\\ControlWork-master\\ControlWork\\ControlWork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Игорь Поливин\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Игорь Поливин\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
